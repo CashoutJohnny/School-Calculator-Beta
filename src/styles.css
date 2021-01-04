@@ -9,7 +9,6 @@ body {
     background: linear-gradient(to right, #deed39, #39edd2);
 }
 
-
 .calculator-grid {
     display: grid;
     justify-content: center;
