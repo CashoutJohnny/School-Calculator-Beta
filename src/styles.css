@@ -21,13 +21,13 @@ body {
 .calculator-grid > button {
     cursor: pointer;
     font-size: 2rem;
-    border: 1px solid white;
+    border: 1px solid rgb(236, 223, 106);
     outline: none;
-    background-color: rgba(255, 255, 255, .75);
+    background-color: rgb(127, 224, 167);
 }
 
 .calculator-grid > button:hover {
-    background-color: rgba(255, 255, 255, .9);
+    background-color: rgba(85, 167, 153, 0.9);
 }
 
 .span-two {
@@ -52,6 +52,6 @@ body {
 }
 
 .output .previous-operand {
-    color: rgba(0, 0, 0, .75);
+    color: rgba(0, 0, 0, 0.75);
     font-size: 2.5rem;
 }
