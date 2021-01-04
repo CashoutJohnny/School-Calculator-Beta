@@ -1,2 +1,2 @@
 # School-Calculator
-Simple Calculator is for user to use in their webiste borswer. You can also change the code on it for yourself if you would like to fo that.
+Simple Calculator is a easy to use Calculator. All u have to do to setup it up is downloading the index.html file to run. Can I change the code to Simple Calculator? Yes you may change the code. 
