@@ -21,9 +21,9 @@ body {
 .calculator-grid > button {
     cursor: pointer;
     font-size: 2rem;
-    border: 1px solid rgb(236, 223, 106);
+    border: 1px solid #070707;
     outline: none;
-    background-color: rgb(127, 224, 167);
+    background-color: #C0C0C0;
 }
 
 .calculator-grid > button:hover {
