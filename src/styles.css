@@ -36,7 +36,7 @@ body {
 
 .output {
     grid-column: 1 / -1;
-    background-color: rgba(0, 0, 0, .75);
+    background-color: rgb(0, 0, 0, .75);
     display: flex;
     align-items: flex-end;
     justify-content: space-around;
@@ -47,11 +47,11 @@ body {
 }
 
 .output .previous-operand {
-    color: rgba(255, 255, 255, .9);
+    color: rgb(255, 255, 255);
     font-size: 1.5rem;
 }
 
 .output .previous-operand {
-    color: rgba(0, 0, 0, 0.75);
+    color: rgba(255, 255, 255, 0.75);
     font-size: 2.5rem;
 }
