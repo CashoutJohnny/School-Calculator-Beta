@@ -1,0 +1,7 @@
+const nb = document.querySelectorAll('[data-number]')
+const pb = document.querySelectorAll('[data-operation]')
+const eb = document.querySelector('[data-equals]')
+const db = document.querySelector('[data-delete]')
+const ccb = document.querySelector('[data-all-clear]')
+const previsousOperandTextElement = document.querySelector('[data-previsous-operand]')
+const currentOperandTextElement = document.querySelector('[data-current-operand')
